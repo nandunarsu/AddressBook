@@ -1,0 +1,15 @@
+C:\Users\NANDINI\source\repos\AddContact\AddContact\bin\Debug\net8.0\AddContact.exe
+C:\Users\NANDINI\source\repos\AddContact\AddContact\bin\Debug\net8.0\AddContact.deps.json
+C:\Users\NANDINI\source\repos\AddContact\AddContact\bin\Debug\net8.0\AddContact.runtimeconfig.json
+C:\Users\NANDINI\source\repos\AddContact\AddContact\bin\Debug\net8.0\AddContact.dll
+C:\Users\NANDINI\source\repos\AddContact\AddContact\bin\Debug\net8.0\AddContact.pdb
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\AddContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\AddContact.AssemblyInfoInputs.cache
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\AddContact.AssemblyInfo.cs
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\AddContact.csproj.CoreCompileInputs.cache
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\AddContact.sourcelink.json
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\AddContact.dll
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\refint\AddContact.dll
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\AddContact.pdb
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\AddContact.genruntimeconfig.cache
+C:\Users\NANDINI\source\repos\AddContact\AddContact\obj\Debug\net8.0\ref\AddContact.dll
